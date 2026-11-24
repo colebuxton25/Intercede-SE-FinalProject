@@ -1,0 +1,12 @@
+{
+  "Paris": [
+    {"title": "Riots and clashes with police erupt in Paris suburbs", "url": "https://example.com/a", "source": "example.com", "published_at": "20261117T090000Z"},
+    {"title": "Riots and clashes with police erupt in Paris suburbs", "url": "https://example.com/a-dup", "source": "example.org", "published_at": "20261117T091500Z"},
+    {"title": "Church in Île-de-France faces threats after church arson", "url": "https://example.com/b", "source": "example.com", "published_at": "20261116T180000Z"},
+    {"title": "Seine flood warning as evacuations begin", "url": "https://example.com/c", "source": "example.net", "published_at": "20261115T070000Z"},
+    {"title": "PSG wins again at home", "url": "https://example.com/sports", "source": "example.com", "published_at": "20261117T200000Z"}
+  ],
+  "London": [
+    {"title": "Protest in central London turns tense", "url": "https://example.com/l1", "source": "example.com", "published_at": "20261117T120000Z"}
+  ]
+}
